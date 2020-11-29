@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26607240-5305-4a55-906d-6dc78c6586b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1kHb5E5nQZg3MecNGtJurqs96Wy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mdwmarket" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\gymuser\controller" />
+      <recent name="C:\xampp\htdocs\gymuser\config" />
+      <recent name="C:\xampp\htdocs\gymuser" />
+      <recent name="C:\xampp\htdocs\gymuser\view\users" />
+      <recent name="C:\xampp\htdocs\gymuser\view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\gymuser\controller" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26607240-5305-4a55-906d-6dc78c6586b6" name="Default Changelist" comment="" />
+      <created>1605360278475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605360278475</updated>
+      <workItem from="1605360279568" duration="15577000" />
+      <workItem from="1605376804706" duration="1083000" />
+      <workItem from="1605460480836" duration="2940000" />
+      <workItem from="1605556674695" duration="13027000" />
+      <workItem from="1605876713356" duration="3915000" />
+      <workItem from="1605988680519" duration="8207000" />
+      <workItem from="1605997484594" duration="9152000" />
+      <workItem from="1606048773121" duration="327000" />
+      <workItem from="1606049209408" duration="16000" />
+      <workItem from="1606120096624" duration="389000" />
+      <workItem from="1606163205938" duration="987000" />
+      <workItem from="1606377218783" duration="13444000" />
+      <workItem from="1606595503954" duration="3398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1605376729584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1605376729584" />
+    <state x="667" y="163" key="#PHP" timestamp="1605376732812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="163" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1605376732812" />
+    <state x="753" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1605374814645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605374814645" />
+    <state x="293" y="154" width="335" height="398" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606396824165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="293" y="154" width="335" height="398" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606396824165" />
+    <state x="845" y="289" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#function0" timestamp="1605375231300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="289" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#function0/0.0.1920.1040@0.0.1920.1040" timestamp="1605375231300" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606647999443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606647999443" />
+    <state x="769" y="243" key="NewPhpClassDialog" timestamp="1606389129359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="243" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606389129359" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1606648266823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606648266823" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1605376712540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605376712540" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605997321229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605997321229" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1605376104192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605376104192" />
+  </component>
+</project>
