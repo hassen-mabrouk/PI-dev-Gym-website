@@ -1,19 +1,19 @@
 <?PHP
-include "config.php";//la connexion avec la bd
+include "config.php";
 class categorieC
 {
- 
+
 	function ajoutercategorie($categorie)
 	{
 		 $sql = "INSERT INTO categorie (name,description,creation) values (:name, :description ,:creation) ";
-        $db = config::getConnexion(); 
+        $db = config::getConnexion();
         try {
-            $req = $db->prepare($sql);//prepare la requete et renvoie le resultat en un objet pdostatment 
+            $req = $db->prepare($sql);//prepare la requete et renvoie le resultat en un objet pdostatment
 			$req->bindValue(':name', $categorie->getname());
 			$req->bindValue(':creation', $categorie->getcreation());
 			$req->bindValue(':description', $categorie->getdescription());
 			$req->execute();
-			
+
         } catch (Exception $e) {
             echo 'erreur: ' . $e->getMessage();
         }
@@ -47,7 +47,7 @@ class categorieC
 		$sql = "DELETE FROM categorie where name= :name";
 		$db = config::getConnexion();
 		$req = $db->prepare($sql);//prepare la requete et renvoie le resultat en un objet pdostatment
-		$req->bindValue(':name', $name);// supprimer par le nom 
+		$req->bindValue(':name', $name);// supprimer par le nom
 		try {
 			$req->execute();
 			// header('Location: index.php');
@@ -55,5 +55,5 @@ class categorieC
 			die('Erreur: ' . $e->getMessage());
 		}
 	}
-	
+
 }
