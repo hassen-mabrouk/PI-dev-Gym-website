@@ -8,7 +8,7 @@ class categorieC
 		 $sql = "INSERT INTO categorie (name,description,creation) values (:name, :description ,:creation) ";
         $db = config::getConnexion();
         try {
-            $req = $db->prepare($sql);//prepare la requete et renvoie le resultat en un objet pdostatment
+            $req = $db->prepare($sql);
 			$req->bindValue(':name', $categorie->getname());
 			$req->bindValue(':creation', $categorie->getcreation());
 			$req->bindValue(':description', $categorie->getdescription());
